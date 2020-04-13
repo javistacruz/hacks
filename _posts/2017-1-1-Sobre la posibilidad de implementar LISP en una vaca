@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Text Styles and Markdown Quick Reference
-author: DeerRIDER
+title: 
+author: javistacruz
 post_list: "date"
 toc: true
 home_btn: true
@@ -13,9 +13,11 @@ toc_level: 4
 category: Sample
 date: 2019-5-25
 excerpt: "This is excerpt."
-abstract: "This is abstract. Abstract is blank by default."
+abstract: "En este artículo demostraremos la posibilidad de implementar LISP en una vaca y analizaremos sus consecuencias prácticas, basándonos en los antecedentes históricos."
 ---
 
+# LISP y sus implementaciones
+No debería sorprendernos la posibilidad de implementar un lenguaje de programación turingcompleto de alto nivel como LISP en un mamífero, por irracional que sea, cuando se lleva décadas implementando esos mismos lenguajes en ordenadores que, además de ser irracionales, son objetos inorgánicos.
 ## Style Test Below
 
 ### Text
