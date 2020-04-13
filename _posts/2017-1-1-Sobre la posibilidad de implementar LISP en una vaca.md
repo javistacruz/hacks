@@ -20,7 +20,7 @@ abstract: "En este artículo demostraremos la posibilidad de implementar LISP en
 No debería sorprendernos la posibilidad de implementar un lenguaje de programación turingcompleto de alto nivel como LISP en un mamífero, por irracional que sea, cuando se lleva décadas implementando esos mismos lenguajes en ordenadores que, además de ser irracionales, son objetos inorgánicos.
 
 # La interfaz
-Una de las cuestiones fundamentales, y quizá la más complicada de resolver, es la de la interaz. ¿Cómo y para qué comunicarse con una baca en LISP?
+Una de las cuestiones fundamentales, y quizá la más complicada de resolver, es la de la interaz. ¿Cómo y para qué comunicarse con una vaca en LISP?
 ## Style Test Below
 
 ### Text
