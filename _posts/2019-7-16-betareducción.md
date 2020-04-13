@@ -1,8 +1,8 @@
 ---
 layout: post
-title: La $\beta$-reducción a prueba de tontos
+title: La β-reducción a prueba de tontos
 author: javistacruz
-category: cálculo-$\lambda$
+category: cálculoλ
 date: 2019-7-16
 ---
 # Cálculo de proposiciones lógicas a través de un lenguaje completamente formalizado.
