@@ -25,4 +25,5 @@ Se defienden los siguientes principios:
 8. Seguirás la filosofía UNIX o la Iglesia de Emacs
 9. Diseñarás tu propio lenguaje de juguete
 10. Cuando domines el principio de explosión serás invencible
+
 Estos principios se desarrollan [aquí](https://javistacruz.github.io/hacks/decalogo/) y se defienden en los siguientes artículos:
