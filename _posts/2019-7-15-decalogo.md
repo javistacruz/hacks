@@ -1,8 +1,8 @@
 ---
 layout: post
-title: La β-reducción a prueba de tontos
+title: Principios fundamentales
 author: javistacruz
-category: cálculoλ
+category: Decálogo
 date: 2019-7-15
 abstract: Defendemos los siguientes principios
 ---
