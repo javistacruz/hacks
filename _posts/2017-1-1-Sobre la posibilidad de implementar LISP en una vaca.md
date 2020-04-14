@@ -10,7 +10,7 @@ footer: true
 maximize: true
 encrypted_text: true
 toc_level: 4
-category: Sample
+category: En defensa de 1 y 9
 date: 2019-5-25
 excerpt: "This is excerpt."
 abstract: "En este artículo demostraremos la posibilidad de implementar LISP en una vaca y analizaremos sus consecuencias prácticas, basándonos en los antecedentes históricos."
