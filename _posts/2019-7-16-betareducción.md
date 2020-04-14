@@ -2,7 +2,7 @@
 layout: post
 title: La β-reducción a prueba de tontos
 author: javistacruz
-category: cálculoλ
+category: En defensa de 1 y 10
 date: 2019-7-16
 ---
 # Cálculo de proposiciones lógicas a través de un lenguaje completamente formalizado.
