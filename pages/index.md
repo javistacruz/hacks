@@ -14,15 +14,15 @@ Este espacio está destinado a probar snippets, katas, etc ... en su mayoría re
 
 Se defienden los siguientes principios: 
 
-0. Hablarás LISP sobre todas las cosas
-1. Renunciarás a lo superfluo
-2. Aprenderás mecanografía al tacto
-3. Documentarás tu código
-4. Agradecerás el código ajeno
-5. Compartirás tus conocimientos
-6. Honrarás a los hackers del pasado
-7. Seguirás la filosofía UNIX o la Iglesia de Emacs
-8. Diseñarás tu propio lenguaje de juguete
-9. Cuando domines el principio de explosión serás invencible
+0.- Hablarás LISP sobre todas las cosas
+1.- Renunciarás a lo superfluo
+2.- Aprenderás mecanografía al tacto
+3.- Documentarás tu código
+4.- Agradecerás el código ajeno
+5.- Compartirás tus conocimientos
+6.- Honrarás a los hackers del pasado
+7.- Seguirás la filosofía UNIX o la Iglesia de Emacs
+8.- Diseñarás tu propio lenguaje de juguete
+9.- Cuando domines el principio de explosión serás invencible
 
 Estos principios se desarrollan [aquí](https://javistacruz.github.io/hacks/decalogo/) y se defienden en los siguientes artículos:
