@@ -12,7 +12,7 @@ permalink: /
 ---
 Este espacio está destinado a probar snippets, katas, etc ... en su mayoría relacionadas con la programación funcional y dialectos de LISP.
 
-<p class="encrypted id="U6YRUfq2K9vCfFGp95tONgII5FFYDlguGR0RxTzD7FNjadCsd4LqPqOyPF"></p>
+<p class="encrypted" id="U6YRUfq2K9vCfFGp95tONgII5FFYDlguGR0RxTzD7FNjadCsd4LqPqOyPF"></p>
 
 Se defienden los principios del siguiente decálogo:
 
